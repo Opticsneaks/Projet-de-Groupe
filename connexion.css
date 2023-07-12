@@ -1,0 +1,62 @@
+body{
+    background-color: #D2C1D9;
+}
+
+img{
+    height : 50px;}
+
+
+
+header{
+    text-align: center;
+}
+
+img{
+    position: absolute;
+    left: 100px;
+}
+
+.acc{
+    position: absolute;
+    left: 50px;
+    text-decoration: none;
+    flex-direction: column;
+}
+
+a:link{
+    color: black;
+}
+
+a:hover{
+    color: darkmagenta;
+}
+
+a:active{
+    color: blueviolet;
+}
+
+a:focus{
+    color: darkorchid;
+}
+
+.nav{
+    border: solid black 2px;
+    width: 50px;
+}
+
+li{
+    list-style-type: none 
+}
+
+legend{
+    text-align: center;
+}
+
+.dej{
+    text-align: center;
+    margin-bottom: 150%;
+}
+.form2{
+    border: none;
+}
+
